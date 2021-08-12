@@ -1,3 +1,6 @@
+# This file is going to receive realtime webcam images and detect faces, emotion,
+# and sleepiness using open source code and facial landmarking
+
 import mediapipe as mp
 import numpy as np
 import cv2
